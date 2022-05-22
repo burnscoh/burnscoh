@@ -1,0 +1,5 @@
+- Hello, my name is Cory.
+- I am a former Journeyman Electrician trying to break into the programming and coding industry.
+- I am currently focusing on learning C++ and Python.  
+- My current goals are to build a solid foundation on the concepts of coding and be able to fluently read and understand code put in front of me.
+- You can reach me at burnscovmc@outlook.com
